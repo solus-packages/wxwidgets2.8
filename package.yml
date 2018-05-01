@@ -1,6 +1,6 @@
 name       : wxwidgets2.8
 version    : 2.8.12
-release    : 4
+release    : 5
 source     :
     - https://github.com/wxWidgets/wxWidgets/releases/download/v2.8.12/wxWidgets-2.8.12.tar.gz : 197c94f7d46269a7fc261a3c8c943f03a9807acf65381944489a538fd8b5dd21
 license    : wxWindows # https://github.com/wxWidgets/wxWidgets/blob/master/docs/licence.txt
@@ -16,8 +16,8 @@ builddeps  :
     - pkgconfig(sdl)
     - pkgconfig(libmspack)
     - pkgconfig(libtiff-4)
+    - pkgconfig(libturbojpeg)
     - pkgconfig(xpm)
-    - libjpeg-turbo-devel
 setup      : |
     %patch -p1 < $pkgfiles/wxGTK-collision.patch
     %patch -Np1 < $pkgfiles/make-abicheck-non-fatal.patch
