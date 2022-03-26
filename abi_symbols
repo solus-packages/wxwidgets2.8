@@ -18324,3 +18324,14 @@ libwx_gtk2u_xrc-2.8.so.0:_ZNK32wxStdDialogButtonSizerXmlHandler12GetClassInfoEv
 libwx_gtk2u_xrc-2.8.so.0:__bss_start
 libwx_gtk2u_xrc-2.8.so.0:_edata
 libwx_gtk2u_xrc-2.8.so.0:_end
+wxrc-2.8:WXU_2.8
+wxrc-2.8:WXU_2.8.1
+wxrc-2.8:WXU_2.8.10
+wxrc-2.8:WXU_2.8.11
+wxrc-2.8:WXU_2.8.12
+wxrc-2.8:WXU_2.8.2
+wxrc-2.8:WXU_2.8.4
+wxrc-2.8:WXU_2.8.5
+wxrc-2.8:WXU_2.8.7
+wxrc-2.8:WXU_2.8.8
+wxrc-2.8:WXU_2.8.9
